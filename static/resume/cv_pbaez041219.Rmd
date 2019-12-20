@@ -12,7 +12,7 @@ Aside
 ================================================================================
 
 
-![Pablo Báez, PhD](pb-avatar.png){width=130%}
+![Pablo Báez, PhD](../img/pb-avatar.png){width=130%}
 
 
 Contact Info {#contact}
